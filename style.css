@@ -1,0 +1,22 @@
+*{
+    color: antiquewhite;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+.section {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+.one,
+.three {
+    width: fit-content;
+			background-color: #E03B8B;
+		}
